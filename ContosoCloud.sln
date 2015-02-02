@@ -1,0 +1,34 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio 2013
+VisualStudioVersion = 12.0.31101.0
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{CC5FD16D-436D-48AD-A40C-5A424C6E3E79}") = "ContosoCloud", "ContosoCloud\ContosoCloud.ccproj", "{985B9E49-9C17-45BD-9702-5BC1B5568636}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "WebRole1", "WebRole1\WebRole1.csproj", "{3780C28C-2215-460A-B644-98D78DE3964B}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "WorkerRole1", "WorkerRole1\WorkerRole1.csproj", "{214C6D94-B1F7-4D91-934B-B783921AFE50}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{985B9E49-9C17-45BD-9702-5BC1B5568636}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{985B9E49-9C17-45BD-9702-5BC1B5568636}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{985B9E49-9C17-45BD-9702-5BC1B5568636}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{985B9E49-9C17-45BD-9702-5BC1B5568636}.Release|Any CPU.Build.0 = Release|Any CPU
+		{3780C28C-2215-460A-B644-98D78DE3964B}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{3780C28C-2215-460A-B644-98D78DE3964B}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{3780C28C-2215-460A-B644-98D78DE3964B}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{3780C28C-2215-460A-B644-98D78DE3964B}.Release|Any CPU.Build.0 = Release|Any CPU
+		{214C6D94-B1F7-4D91-934B-B783921AFE50}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{214C6D94-B1F7-4D91-934B-B783921AFE50}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{214C6D94-B1F7-4D91-934B-B783921AFE50}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{214C6D94-B1F7-4D91-934B-B783921AFE50}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+EndGlobal
